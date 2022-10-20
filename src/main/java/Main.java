@@ -14,4 +14,8 @@ public class Main {
         return i;
     }
 
+    public int methodFromThird(int i) {
+        return i;
+    }
+
 }
