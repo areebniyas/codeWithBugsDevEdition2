@@ -14,4 +14,8 @@ public class Main {
         return i;
     }
 
+     public int myMethodFromBranch2(int i) {
+        return i;
+    }
+
 }
