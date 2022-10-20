@@ -13,5 +13,9 @@ public class Main {
     public int myMethod(int i) {
         return i;
     }
+    
+     public int fromForked(int i) {
+        return i;
+    }
 
 }
